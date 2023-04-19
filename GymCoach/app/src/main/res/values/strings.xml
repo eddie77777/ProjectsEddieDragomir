@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GymCoach</string>
+
+    <string-array name = "workout_names">
+        <item>Workout1</item>
+        <item>Workout2</item>
+        <item>Workout3</item>
+        <item>Workout4</item>
+        <item>Workout5</item>
+        <item>Workout6</item>
+        <item>Workout7</item>
+        <item>Workout8</item>
+        <item>Workout9</item>
+        <item>Workout10</item>
+        <item>Workout11</item>
+    </string-array>
+
+    <string-array name = "muscle_categories">
+        <item>spate</item>
+        <item>umeri</item>
+        <item>trapez</item>
+        <item>cardio</item>
+        <item>biceps</item>
+        <item>triceps</item>
+        <item>gambe</item>
+        <item>piept</item>
+        <item>antebrat</item>
+        <item>picioare</item>
+        <item>abdomen</item>
+    </string-array>
+
+
+</resources>
